@@ -1,0 +1,16 @@
+6 15
+69485 Jack
+95715 qwerty
+95715 Alex
+83647 M
+197128 qwerty
+95715 Jack
+93289 Alex
+95715 Alex
+95715 M
+32768 BilboBaggins
+99824 TetrisMaster
+45482 BilboBaggins
+62123 BilboBaggins
+77623 M
+56791 Champion
