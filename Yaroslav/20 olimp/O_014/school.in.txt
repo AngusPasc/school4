@@ -1,4 +1,5 @@
 9
+<<<<<<< HEAD
 Fgffg fgfgf sgd 18
 9fd fgff
 Fgfffh 9
@@ -8,3 +9,14 @@ Gffghgh 9
 Fghgjdg 9
 Fdgfh 9
 Hhvjjgj 9
+=======
+Physics and Mathematics School 18
+9ya shkola
+Ljdhgjhdjg 9
+hvhhgvhhjv 18
+bvhcbvhb 42
+nmbvnmbvnmbv 9
+nmcvjncvjnvc 9
+jnvcjvc 9
+jdjhdvjdv 9
+>>>>>>> 2afc78eea2918e5a431a9a6e6bcc1847f0d6009d
