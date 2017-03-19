@@ -30,7 +30,7 @@ begin
       if (arr[i+1] mod 10=5)and(arr[i+1]>arr[i+2]) then
         if arr[i+1]>a then a:=arr[i+1];
   for i:=0 to n-1 do
-    if arr[i]=a then
+    if arr_place[i]=a then
       begin
         write(i+1); exit;
       end;

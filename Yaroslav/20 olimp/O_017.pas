@@ -2,7 +2,7 @@ Program nO_017;
 var m,n,i,j,c: integer; c1,c2: string;
 begin
   readln(m,n,i,j,c);
-  if max(m,n) mod min(m,n)=0 then
+  if (m*n)mod 2=0 then
     begin
       write('equal');
       exit;
